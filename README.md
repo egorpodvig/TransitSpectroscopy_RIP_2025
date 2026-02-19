@@ -1,1 +1,17 @@
-# TransitSpectroscopy_RIP_2025
+#Разработка интернет-приложений (РИП) 2025
+
+Определение химического состава планеты методом транзитной спектроскопии
+
+Разработанное приложение позволит астрофизикам-исследователям создавать и формировать заявки
+на расчёт химического состава атмосферы экзопланет по данным транзитной спектроскопии, а модераторам
+завершать или отклонять данные заявки.
+
+Ссылки:
+
+• GitHubPages: [https://egorpodvig.github.io/lab5-frontend](https://egorpodvig.github.io/lab5-frontend)
+
+• Бэкенд (основной веб-сервис): [https://github.com/egorpodvig/TransitSpectroscopy-backend](https://github.com/egorpodvig/TransitSpectroscopy-backend)
+
+• Бэкенд (асинхронный сервис): [https://github.com/egorpodvig/TransitSpectroscopy-backend-async](https://github.com/egorpodvig/TransitSpectroscopy-backend-async)
+
+• Фронтенд: [https://github.com/egorpodvig/lab5-frontend](https://github.com/egorpodvig/lab5-frontend)
